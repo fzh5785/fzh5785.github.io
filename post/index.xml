@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>如何用 hugo 搭建个人博客</title>
+      <link>http://localhost:1313/post/%E5%A6%82%E4%BD%95%E7%94%A8-hugo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Mon, 20 Apr 2020 14:04:57 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E5%A6%82%E4%BD%95%E7%94%A8-hugo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>如何用 hugo 搭建个人博客 安装hugo 设置hugo hugo官网7步骤 下载安装主题 在根目录/content/post新建x.md文件 运行hugo se</description>
+    </item>
+    
+    <item>
       <title>开博大吉</title>
       <link>http://localhost:1313/post/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
       <pubDate>Mon, 20 Apr 2020 14:04:57 +0800</pubDate>
@@ -26,7 +35,7 @@
       <pubDate>Sun, 19 Apr 2020 14:04:57 +0800</pubDate>
       
       <guid>http://localhost:1313/post/%E7%AC%AC%E4%BA%8C%E7%AF%87/</guid>
-      <description>大家好 这是第二篇博客</description>
+      <description>大家好 这是第二篇博客 我的</description>
     </item>
     
   </channel>

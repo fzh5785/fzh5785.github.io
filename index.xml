@@ -32,6 +32,44 @@
     </item>
     
     <item>
+      <title>如何用 hugo 搭建个人博客</title>
+      <link>http://localhost:1313/post/%E5%A6%82%E4%BD%95%E7%94%A8-hugo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Mon, 20 Apr 2020 14:04:57 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E5%A6%82%E4%BD%95%E7%94%A8-hugo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      
+        <description>&lt;h1 id=&#34;如何用-hugo-搭建个人博客&#34;&gt;如何用 hugo 搭建个人博客&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;安装hugo&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;设置hugo
+hugo官网7步骤&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;下载安装主题&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在根目录/content/post新建x.md文件&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;运行hugo server，然后复制网址&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在根目录终端打下&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;git add .(提交)&lt;/li&gt;
+&lt;li&gt;gc (命名)&lt;/li&gt;
+&lt;li&gt;git push (上传)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      
+    </item>
+    
+    <item>
       <title>开博大吉</title>
       <link>http://localhost:1313/post/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
       <pubDate>Mon, 20 Apr 2020 14:04:57 +0800</pubDate>
@@ -40,6 +78,7 @@
       
         <description>&lt;h1 id=&#34;大家好&#34;&gt;大家好&lt;/h1&gt;
 &lt;p&gt;我的博客开通啦，希望写出好文章！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
       
     </item>
@@ -53,6 +92,9 @@
       
         <description>&lt;h1 id=&#34;大家好&#34;&gt;大家好&lt;/h1&gt;
 &lt;p&gt;这是第二篇博客&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;我的&lt;/li&gt;
+&lt;/ul&gt;
 </description>
       
     </item>
