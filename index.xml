@@ -57,14 +57,15 @@ hugo官网7步骤&lt;/p&gt;
 &lt;p&gt;运行hugo server，然后复制网址&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;在根目录终端打下&lt;/p&gt;
+&lt;p&gt;上传到远程仓库&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;进入目录public/&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然后add/commit/push&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;git add .(提交)&lt;/li&gt;
-&lt;li&gt;gc (命名)&lt;/li&gt;
-&lt;li&gt;git push (上传)&lt;/li&gt;
-&lt;/ul&gt;
 </description>
       
     </item>
